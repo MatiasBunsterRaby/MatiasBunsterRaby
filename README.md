@@ -1,4 +1,12 @@
-## Hi there, well come to my GitHub profile 👋
+## Hi there, welcome to my GitHub profile 👋
+
+I'm Matías, currently pursuing a Magister in Data Science. Specialized in advanced data analytics, Machine Learning, Deep Learning and NLP. Passionate about how technology can help businesses succeed.
+
+I'm interested in joining a team that shares the same passion.
+
+In my free time, I like to read, travel, hike, and enjoy a cup of coffee.
+
+If you are interested in working together, feel free to drop me a line at matias.bunster@grancapital.cl.
 
 <!--
 **MatiasBunsterRaby/MatiasBunsterRaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
