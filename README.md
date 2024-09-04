@@ -4,8 +4,6 @@ I'm Matías, currently pursuing a Magister in Data Science. Specialized in advan
 
 I'm interested in joining a team that shares the same passion.
 
-In my free time, I like to read, travel, hike, and enjoy a cup of coffee.
-
 If you are interested in working together, feel free to drop me a line at matias.bunster@grancapital.cl.
 
 <!--
