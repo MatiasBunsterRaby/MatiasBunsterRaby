@@ -4,7 +4,7 @@ I'm Matías, currently pursuing a Master's in Data Science. I specialize in adva
 
 I'm interested in joining a team that shares the same passion.
 
-If you're interested in working together, feel free to drop me a line at matias.bunster@grancapital.cl."**
+If you're interested in working together, feel free to drop me a line at matias.bunster@grancapital.cl."
 
 <!--
 **MatiasBunsterRaby/MatiasBunsterRaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
