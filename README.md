@@ -1,6 +1,6 @@
 ## Hi there, welcome to my GitHub profile 👋
 
-I'm Matías, currently pursuing a Master's in Data Science. I specialize in advanced data analytics, Machine Learning, Deep Learning, and NLP. I'm passionate about how technology can help businesses succeed.
+I'm Matías, Civil Engineer & Master's in Data Science. I specialize in advanced data analytics, Machine Learning, Deep Learning, and NLP. I'm passionate about how technology can help businesses succeed.
 
 I'm interested in joining a team that shares the same passion.
 
